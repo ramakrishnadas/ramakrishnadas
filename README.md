@@ -17,7 +17,7 @@ I'm Rama, a Software Development student at Brigham Young University-Idaho inter
 
 ## Let's Connect!
 
-- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]() [LinkedIn](www.linkedin.com/in/rama-bhagi) profile
+- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rama-bhagi) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
