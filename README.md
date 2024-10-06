@@ -13,7 +13,7 @@ I'm Rama, a Software Development student at Brigham Young University-Idaho inter
 ## Technologies and Tools
 
 - Proficient in:
-  <div style="background-color:white;">
+  <div>
     <hr>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -36,7 +36,6 @@ I'm Rama, a Software Development student at Brigham Young University-Idaho inter
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
     <hr>
   </div>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
 
 ## Let's Connect!
 
