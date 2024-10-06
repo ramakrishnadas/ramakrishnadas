@@ -2,13 +2,13 @@
 
 Hello, GitHub! 👋
 
-I'm Rama, a student at Brigham Young University-Idaho interested in software and web development. Welcome to my GitHub profile!
+I'm Rama, a Software Development student at Brigham Young University-Idaho interested in software and web development. Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning Next.js, React.js, Laravel, Tailwind
+- I'm currently learning Next.js, React.js, Laravel, Tailwind, and TypeScript.
 - My goals are to become a full-time software developer and learn to work efficiently.
-- Ask me about 
+- Ask me about my ongoing projects and any of my repositories that sparks your interest.
 
 ## Technologies and Tools
 
@@ -18,7 +18,6 @@ I'm Rama, a student at Brigham Young University-Idaho interested in software and
 ## Let's Connect!
 
 - Here is my [LinkedIn](www.linkedin.com/in/rama-bhagi) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
